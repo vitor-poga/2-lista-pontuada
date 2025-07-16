@@ -18,7 +18,7 @@ int main(){
         } else if (n == 0)
         {
             printf("Encerrando programa...\n");
-            printf("Calculando a média...\n");
+            printf("Calculando a media...\n");
         }
         
     }
